@@ -1,6 +1,8 @@
-# XJ-ComputerNetworkLab
+# ComputerNetworkLab-XJTU
 
-XJTU,ComputerNetworkLab,西交计网实验有关内容
+ComputerNetworkLab,XJTU
+
+西交计网专题实验
 
 2024-春
 
